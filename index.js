@@ -58,7 +58,7 @@ const express = require('express')
 const app = express()
 const port = process.env.PORT || 3000
 
-app.get('api/v1/thailand', (_, res) => {
+app.get('/api/v1/thailand', (_, res) => {
 
     // Set province, district, and sub-districts
     const provinces = provinceData.map((province) => new Province(province));
@@ -100,15 +100,15 @@ app.get('api/v1/thailand', (_, res) => {
     res.send(provinces)
 })
 
-app.get('api/v1/thailand/provinces', (_, res) => {
+app.get('/api/v1/thailand/provinces', (_, res) => {
     res.send(provinceData)
 })
 
-app.get('/v1/thailand/districts', (_, res) => {
+app.get('/api/v1/thailand/districts', (_, res) => {
     res.send(districData)
 })
 
-app.get('/v1/thailand/subDistricts', (_, res) => {
+app.get('/api/v1/thailand/subDistricts', (_, res) => {
     res.send(subDistriceData)
 })
 
