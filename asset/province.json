@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "name_en": "Bangkok",
+    "name_th": "กรุงเทพมหานคร",
+    "hs": "BKK",
+    "iso": "TH-10",
+    "fips": "TH40",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 2,
+    "name_en": "Amnat Charoen",
+    "name_th": "อำนาจเจริญ",
+    "hs": "ACR",
+    "iso": "TH-37",
+    "fips": "TH77",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 3,
+    "name_en": "Ang Thong",
+    "name_th": "อ่างทอง",
+    "hs": "ATG",
+    "iso": "TH-15",
+    "fips": "TH35",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 4,
+    "name_en": "Bueng Kan",
+    "name_th": "บึงกาฬ",
+    "hs": "BKN",
+    "iso": "TH-38",
+    "fips": "TH81",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 5,
+    "name_en": "Buriram",
+    "name_th": "บุรีรัมย์",
+    "hs": "BRM",
+    "iso": "TH-31",
+    "fips": "TH28",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 6,
+    "name_en": "Chachoengsao",
+    "name_th": "ฉะเชิงเทรา",
+    "hs": "CCO",
+    "iso": "TH-24",
+    "fips": "TH44",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 7,
+    "name_en": "Chai Nat",
+    "name_th": "ชัยนาท",
+    "hs": "CNT",
+    "iso": "TH-18",
+    "fips": "TH32",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 8,
+    "name_en": "Chaiyaphum",
+    "name_th": "ชัยภูมิ",
+    "hs": "CPM",
+    "iso": "TH-36",
+    "fips": "TH26",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 9,
+    "name_en": "Chanthaburi",
+    "name_th": "จันทบุรี",
+    "hs": "CTI",
+    "iso": "TH-22",
+    "fips": "TH48",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 10,
+    "name_en": "Chiang Mai",
+    "name_th": "เชียงใหม่",
+    "hs": "CMI",
+    "iso": "TH-50",
+    "fips": "TH02",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 11,
+    "name_en": "Chiang Rai",
+    "name_th": "เชียงราย",
+    "hs": "CRI",
+    "iso": "TH-57",
+    "fips": "TH03",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 12,
+    "name_en": "Chonburi",
+    "name_th": "ชลบุรี",
+    "hs": "CBI",
+    "iso": "TH-20",
+    "fips": "TH46",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 13,
+    "name_en": "Chumphon",
+    "name_th": "ชุมพร",
+    "hs": "CPN",
+    "iso": "TH-86",
+    "fips": "TH58",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 14,
+    "name_en": "Kalasin",
+    "name_th": "กาฬสินธุ์",
+    "hs": "KSN",
+    "iso": "TH-46",
+    "fips": "TH23",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 15,
+    "name_en": "Kamphaeng Phet",
+    "name_th": "กำแพงเพชร",
+    "hs": "KPT",
+    "iso": "TH-62",
+    "fips": "TH11",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 16,
+    "name_en": "Kanchanaburi",
+    "name_th": "กาญจนบุรี",
+    "hs": "KRI",
+    "iso": "TH-71",
+    "fips": "TH50",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 17,
+    "name_en": "Khon Kaen",
+    "name_th": "ขอนแก่น",
+    "hs": "KKN",
+    "iso": "TH-40",
+    "fips": "TH22",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 18,
+    "name_en": "Krabi",
+    "name_th": "กระบี่",
+    "hs": "KBI",
+    "iso": "TH-81",
+    "fips": "TH63",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 19,
+    "name_en": "Lampang",
+    "name_th": "ลำปาง",
+    "hs": "LPG",
+    "iso": "TH-52",
+    "fips": "TH06",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 20,
+    "name_en": "Lamphun",
+    "name_th": "ลำพูน",
+    "hs": "LPN",
+    "iso": "TH-51",
+    "fips": "TH05",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 21,
+    "name_en": "Loei",
+    "name_th": "เลย",
+    "hs": "LEI",
+    "iso": "TH-42",
+    "fips": "TH18",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 22,
+    "name_en": "Lopburi",
+    "name_th": "ลพบุรี",
+    "hs": "LRI",
+    "iso": "TH-16",
+    "fips": "TH34",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 23,
+    "name_en": "Mae Hong Son",
+    "name_th": "แม่ฮ่องสอน",
+    "hs": "MSN",
+    "iso": "TH-58",
+    "fips": "TH01",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 24,
+    "name_en": "Maha Sarakham",
+    "name_th": "มหาสารคาม",
+    "hs": "MKM",
+    "iso": "TH-44",
+    "fips": "TH24",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 25,
+    "name_en": "Mukdahan",
+    "name_th": "มุกดาหาร",
+    "hs": "MDH",
+    "iso": "TH-49",
+    "fips": "TH78",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 26,
+    "name_en": "Nakhon Nayok",
+    "name_th": "นครนายก",
+    "hs": "NYK",
+    "iso": "TH-26",
+    "fips": "TH43",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 27,
+    "name_en": "Nakhon Pathom",
+    "name_th": "นครปฐม",
+    "hs": "NPT",
+    "iso": "TH-73",
+    "fips": "TH53",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 28,
+    "name_en": "Nakhon Phanom",
+    "name_th": "นครพนม",
+    "hs": "NPM",
+    "iso": "TH-48",
+    "fips": "TH73",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 29,
+    "name_en": "Nakhon Ratchasima",
+    "name_th": "นครราชสีมา",
+    "hs": "NMA",
+    "iso": "TH-30",
+    "fips": "TH27",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 30,
+    "name_en": "Nakhon Sawan",
+    "name_th": "นครสวรรค์",
+    "hs": "NSN",
+    "iso": "TH-60",
+    "fips": "TH16",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 31,
+    "name_en": "Nakhon Si Thammarat",
+    "name_th": "นครศรีธรรมราช",
+    "hs": "NRT",
+    "iso": "TH-80",
+    "fips": "TH64",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 32,
+    "name_en": "Nan",
+    "name_th": "น่าน",
+    "hs": "NAN",
+    "iso": "TH-55",
+    "fips": "TH04",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 33,
+    "name_en": "Narathiwat",
+    "name_th": "นราธิวาส",
+    "hs": "NWT",
+    "iso": "TH-96",
+    "fips": "TH31",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 34,
+    "name_en": "Nong Bua Lamphu",
+    "name_th": "หนองบัวลำภู",
+    "hs": "NBP",
+    "iso": "TH-39",
+    "fips": "TH79",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 35,
+    "name_en": "Nong Khai",
+    "name_th": "หนองคาย",
+    "hs": "NKI",
+    "iso": "TH-43",
+    "fips": "TH17",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 36,
+    "name_en": "Nonthaburi",
+    "name_th": "นนทบุรี",
+    "hs": "NBI",
+    "iso": "TH-12",
+    "fips": "TH38",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 37,
+    "name_en": "Pathum Thani",
+    "name_th": "ปทุมธานี",
+    "hs": "PTE",
+    "iso": "TH-13",
+    "fips": "TH39",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 38,
+    "name_en": "Pattani",
+    "name_th": "ปัตตานี",
+    "hs": "PTN",
+    "iso": "TH-94",
+    "fips": "TH69",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 39,
+    "name_en": "Phang Nga",
+    "name_th": "พังงา",
+    "hs": "PNA",
+    "iso": "TH-82",
+    "fips": "TH61",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 40,
+    "name_en": "Phatthalung",
+    "name_th": "พัทลุง",
+    "hs": "PLG",
+    "iso": "TH-93",
+    "fips": "TH66",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 41,
+    "name_en": "Phayao",
+    "name_th": "พะเยา",
+    "hs": "PYO",
+    "iso": "TH-56",
+    "fips": "TH41",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 42,
+    "name_en": "Phetchabun",
+    "name_th": "เพชรบูรณ์",
+    "hs": "PNB",
+    "iso": "TH-67",
+    "fips": "TH14",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 43,
+    "name_en": "Phetchaburi",
+    "name_th": "เพชรบุรี",
+    "hs": "PBI",
+    "iso": "TH-76",
+    "fips": "TH56",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 44,
+    "name_en": "Phichit",
+    "name_th": "พิจิตร",
+    "hs": "PCT",
+    "iso": "TH-66",
+    "fips": "TH13",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 45,
+    "name_en": "Phitsanulok",
+    "name_th": "พิษณุโลก",
+    "hs": "PLK",
+    "iso": "TH-65",
+    "fips": "TH12",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 46,
+    "name_en": "Phra Nakhon Si Ayutthaya",
+    "name_th": "พระนครศรีอยุธยา",
+    "hs": "AYA",
+    "iso": "TH-14",
+    "fips": "TH36",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 47,
+    "name_en": "Phrae",
+    "name_th": "แพร่",
+    "hs": "PRE",
+    "iso": "TH-54",
+    "fips": "TH07",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 48,
+    "name_en": "Phuket",
+    "name_th": "ภูเก็ต",
+    "hs": "PKT",
+    "iso": "TH-83",
+    "fips": "TH62",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 49,
+    "name_en": "Prachinburi",
+    "name_th": "ปราจีนบุรี",
+    "hs": "PRI",
+    "iso": "TH-25",
+    "fips": "TH74",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 50,
+    "name_en": "Prachuap Khiri Khan",
+    "name_th": "ประจวบคีรีขันธ์",
+    "hs": "PKN",
+    "iso": "TH-77",
+    "fips": "TH57",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 51,
+    "name_en": "Ranong",
+    "name_th": "ระนอง",
+    "hs": "RNG",
+    "iso": "TH-85",
+    "fips": "TH59",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 52,
+    "name_en": "Ratchaburi",
+    "name_th": "ราชบุรี",
+    "hs": "RBR",
+    "iso": "TH-70",
+    "fips": "TH52",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 53,
+    "name_en": "Rayong",
+    "name_th": "ระยอง",
+    "hs": "RYG",
+    "iso": "TH-21",
+    "fips": "TH47",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 54,
+    "name_en": "Roi Et",
+    "name_th": "ร้อยเอ็ด",
+    "hs": "RET",
+    "iso": "TH-45",
+    "fips": "TH25",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 55,
+    "name_en": "Sa Kaeo",
+    "name_th": "สระแก้ว",
+    "hs": "SKW",
+    "iso": "TH-27",
+    "fips": "TH80",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 56,
+    "name_en": "Sakon Nakhon",
+    "name_th": "สกลนคร",
+    "hs": "SNK",
+    "iso": "TH-47",
+    "fips": "TH20",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 57,
+    "name_en": "Samut Prakan",
+    "name_th": "สมุทรปราการ",
+    "hs": "SPK",
+    "iso": "TH-11",
+    "fips": "TH42",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 58,
+    "name_en": "Samut Sakhon",
+    "name_th": "สมุทรสาคร",
+    "hs": "SKN",
+    "iso": "TH-74",
+    "fips": "TH55",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 59,
+    "name_en": "Samut Songkhram",
+    "name_th": "สมุทรสงคราม",
+    "hs": "SKM",
+    "iso": "TH-75",
+    "fips": "TH54",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 60,
+    "name_en": "Saraburi",
+    "name_th": "สระบุรี",
+    "hs": "SRI",
+    "iso": "TH-19",
+    "fips": "TH37",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 61,
+    "name_en": "Satun",
+    "name_th": "สตูล",
+    "hs": "STN",
+    "iso": "TH-91",
+    "fips": "TH67",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 62,
+    "name_en": "Sing Buri",
+    "name_th": "สิงห์บุรี",
+    "hs": "SBR",
+    "iso": "TH-17",
+    "fips": "TH33",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 63,
+    "name_en": "Sisaket",
+    "name_th": "ศรีสะเกษ",
+    "hs": "SSK",
+    "iso": "TH-33",
+    "fips": "TH30",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 64,
+    "name_en": "Songkhla",
+    "name_th": "สงขลา",
+    "hs": "SKA",
+    "iso": "TH-90",
+    "fips": "TH68",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 65,
+    "name_en": "Sukhothai",
+    "name_th": "สุโขทัย",
+    "hs": "STI",
+    "iso": "TH-64",
+    "fips": "TH09",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 66,
+    "name_en": "Suphan Buri",
+    "name_th": "สุพรรณบุรี",
+    "hs": "SPB",
+    "iso": "TH-72",
+    "fips": "TH51",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 67,
+    "name_en": "Surat Thani",
+    "name_th": "สุราษฎร์ธานี",
+    "hs": "SNI",
+    "iso": "TH-84",
+    "fips": "TH60",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 68,
+    "name_en": "Surin",
+    "name_th": "สุรินทร์",
+    "hs": "SRN",
+    "iso": "TH-32",
+    "fips": "TH29",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 69,
+    "name_en": "Tak",
+    "name_th": "ตาก",
+    "hs": "TAK",
+    "iso": "TH-63",
+    "fips": "TH08",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 70,
+    "name_en": "Trang",
+    "name_th": "ตรัง",
+    "hs": "TRG",
+    "iso": "TH-92",
+    "fips": "TH65",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 71,
+    "name_en": "Trat",
+    "name_th": "ตราด",
+    "hs": "TRT",
+    "iso": "TH-23",
+    "fips": "TH49",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 72,
+    "name_en": "Ubon Ratchathani",
+    "name_th": "อุบลราชธานี",
+    "hs": "UBN",
+    "iso": "TH-34",
+    "fips": "TH75",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 73,
+    "name_en": "Udon Thani",
+    "name_th": "อุดรธานี",
+    "hs": "UDN",
+    "iso": "TH-41",
+    "fips": "TH76",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 74,
+    "name_en": "Uthai Thani",
+    "name_th": "อุทัยธานี",
+    "hs": "UTI",
+    "iso": "TH-61",
+    "fips": "TH15",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 75,
+    "name_en": "Uttaradit",
+    "name_th": "อุตรดิตถ์",
+    "hs": "UTD",
+    "iso": "TH-53",
+    "fips": "TH10",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 76,
+    "name_en": "Yala",
+    "name_th": "ยะลา",
+    "hs": "YLA",
+    "iso": "TH-95",
+    "fips": "TH70",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  },
+  {
+    "id": 77,
+    "name_en": "Yasothon",
+    "name_th": "ยโสธร",
+    "hs": "YST",
+    "iso": "TH-35",
+    "fips": "TH72",
+    "create_at": "2024-06-29T13:14:06Z",
+    "update_at": "2024-06-29T13:14:06Z"
+  }
+]
